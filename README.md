@@ -1,6 +1,6 @@
 # README
 
-This repository contains tha blamelessly optimal control algorithm.
+This repository contains the blamelessly optimal control algorithm.
 
 **Papers**
 To come
